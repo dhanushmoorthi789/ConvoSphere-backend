@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-change-this-in-production-use-env-variables'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "nexcart-backend-zjl5.onrender.com",
+    "convosphere-backend-w8k8.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
